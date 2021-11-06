@@ -1,5 +1,5 @@
 # Dosepix Calibration via CNN
-Author: Sebastian Schmidt
+Author: Sebastian Schmidt  
 E-Mail: schm.seb@gmail.com  
 
 ### Calibration procedure
